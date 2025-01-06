@@ -70,7 +70,7 @@ I am a full-stack developer specializing in dynamic websites using React and Nex
 ---
 
 ## 📊 GitHub Stats  
-![Bezhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekalichava&show_icons=true&theme=radical)
+![Bezhan's GitHub Stats](https://github-readme-stats.vercel.app/api?aLLod1n=bekalichava&show_icons=true&theme=radical)
 
 ---
 
