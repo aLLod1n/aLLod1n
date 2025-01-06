@@ -18,7 +18,7 @@ I am a full-stack developer specializing in dynamic websites using React and Nex
 - **AONE**  
   Middle Software Developer at AONE, contributing to software development and platform optimization.
 
-- **a1.gold**  
+- **AONE - https://a1.gold**  
   Played a pivotal role in developing a crypto market platform, focusing on both frontend and backend solutions. Key highlights include:  
   - Smart contract-based user registration with staking logic.  
   - Cryptocurrency purchasing system using Web3 interactions.  
@@ -64,7 +64,7 @@ I am a full-stack developer specializing in dynamic websites using React and Nex
 ## 📫 Contact Me  
 - **Phone:** +995 598 600 242  
 - **Email:** [bekalichava22@gmail.com](mailto:bekalichava22@gmail.com)  
-- **LinkedIn:** [bezhan-kalichava](kedin.com/in/bezhan-kalichava-24864120a/)  
+- **LinkedIn:** [bezhan-kalichava](https://www.linkedin.com/in/bezhan-kalichava-24864120a/)  
 - **Location:** Tbilisi, Georgia  
 
 ---
