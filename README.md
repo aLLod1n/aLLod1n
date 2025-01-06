@@ -20,18 +20,9 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 
 ---
 ### 📚 Tech Stack:
-
-- **Frontend**:
-  - React, Next.js
-  - HTML, CSS, SCSS, Tailwind CSS
-  - Storybook
-
-- **Backend**:
-  - Node.js, Express
-  - MongoDB, Strapi
-
-- **Blockchain**:
-  - Web3.js, Solidity
+- **Frontend**: React, Next.js, HTML, CSS, SCSS, Tailwind CSS, Storybook
+- **Backend**: Node.js, Express, MongoDB, Strapi
+- **Blockchain**: Web3.js, Solidity
 
 ---
 
