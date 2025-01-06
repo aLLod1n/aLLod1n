@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Bezhan Kalichava
-A passionate Full-stack JavaScript Developer focusing on dynamic web applications, blockchain technology, and decentralized systems. I am always eager to learn and expand my knowledge of emerging technologies.
+Full Stack Developer | React | Next | Node | Express | MERN stack
 
 ---
 
@@ -19,11 +19,21 @@ A passionate Full-stack JavaScript Developer focusing on dynamic web application
 - [**a1.gold**](https://a1.gold): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration.  
 
 ---
-
 ### 📚 Tech Stack:
-- **Frontend**: React, Next.js, HTML, CSS, SCSS, Tailwind CSS, Storybook
-- **Backend**: Node.js, Express, MongoDB, Web3, Solidity, Strapi
-- **Tools**: GitHub, Docker, Jenkins, Postma
+
+- **Frontend**:
+  - React, Next.js
+  - HTML, CSS, SCSS, Tailwind CSS
+  - Storybook
+
+- **Backend**:
+  - Node.js, Express
+  - MongoDB, Strapi
+
+- **Blockchain**:
+  - Web3.js, Solidity
+
+---
 
 ## 🤝 Soft Skills  
 - Leadership and Team Management  
