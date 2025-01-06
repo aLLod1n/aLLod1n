@@ -64,7 +64,7 @@ I am a full-stack developer specializing in dynamic websites using React and Nex
 ## 📫 Contact Me  
 - **Phone:** +995 598 600 242  
 - **Email:** [bekalichava22@gmail.com](mailto:bekalichava22@gmail.com)  
-- **LinkedIn:** [bezhan-kalichava](https://www.linkedin.com/in/bezhan-kalichava-24864120a/)  
+- **LinkedIn:** [bezhan-kalichava](kedin.com/in/bezhan-kalichava-24864120a/)  
 - **Location:** Tbilisi, Georgia  
 
 ---
