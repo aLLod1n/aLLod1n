@@ -8,7 +8,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 - **Zaimyinfo.kz**: A platform to compare credit company offers, helping users find the best deals in Kazakhstan.
   
 ## 🌱 Currently Learning  
-- **System Architecture**  
+- **DevOps**  
 - **Advanced Blockchain Solutions**  
 
 ---
