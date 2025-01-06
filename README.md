@@ -1,29 +1,22 @@
-# Hi 👋, I'm Bezhan Kalichava  
-**Full-stack JavaScript Developer**
+## 👋 Hi, I'm Bezhan Kalichava
+A passionate Full-stack JavaScript Developer focusing on dynamic web applications, blockchain technology, and decentralized systems. I am always eager to learn and expand my knowledge of emerging technologies.
 
 ---
 
-## About Me  
-I am a full-stack developer specializing in dynamic websites using React and Next.js, with backend expertise in Node.js. My journey has also led me to blockchain technology, where I've gained knowledge in smart contract development and decentralized applications. My familiarity with Web3 allows me to interact effectively with blockchains. Dedicated to continuous learning, I am always seeking new professional opportunities and challenges.  
+🔭 I’m currently working on:
+- **Aviafy**: A travel platform developed from scratch using the MERN stack, which is now in full production.
+- **Zaimyinfo.kz**: A platform to compare credit company offers, helping users find the best deals in Kazakhstan.
+  
+🌱 I’m currently learning about System Architecture.
+
+👯 I’m looking to collaborate on full-stack AI products.
 
 ---
 
-## 🔭 Current Projects  
-- **Aviafy**  
-  Owner, Manager, and Full-Stack Developer of Aviafy, a fully launched platform built from scratch using the MERN stack. Aviafy serves tour agencies and operators with:  
-  - Integrated CRM for managing customer data, bookings, and payments.  
-  - Automated invoicing and order tracking systems.  
-  - AI-powered assistants for platforms like Facebook, Instagram, and Telegram, enhancing client communication and service.  
-
-- **AONE**  
-  Middle Software Developer at AONE, contributing to software development and platform optimization.
-
-- **AONE - https://a1.gold**  
-  Played a pivotal role in developing a crypto market platform, focusing on both frontend and backend solutions. Key highlights include:  
-  - Smart contract-based user registration with staking logic.  
-  - Cryptocurrency purchasing system using Web3 interactions.  
-  - Custom UI library as an npm package.  
-  - Modular backend architecture with Node.js.  
+## 🔭 My Current Projects:  
+- [**Aviafy**](https://aviafy.com): A travel platform built with MERN stack, providing CRM and AI-powered assistants for travel agencies.
+- [**Zaimyinfo.kz**](https://zaimyinfo.kz): A platform to compare credit company offers and help users choose the best options for loans and financing in Kazakhstan.
+- [**a1.gold**](https://a1.gold): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration.  
 
 ---
 
@@ -33,18 +26,10 @@ I am a full-stack developer specializing in dynamic websites using React and Nex
 
 ---
 
-## 👨‍💻 Skills  
-### Programming Languages and Frameworks:  
-- JavaScript, TypeScript  
-- React, Next.js, Node.js  
-- HTML, CSS/SCSS, Tailwind, Bootstrap  
-- Solidity, Web3  
-
-### Tools and Platforms:  
-- Storybook, Strapi, GitHub, MongoDB  
-- Jest, Mocha  
-
----
+### 📚 Tech Stack:
+- **Frontend**: React, Next.js, HTML, CSS, SCSS, Tailwind CSS, Storybook
+- **Backend**: Node.js, Express, MongoDB, Web3, Solidity, Strapi
+- **Tools**: GitHub, Docker, Jenkins, Postma
 
 ## 🤝 Soft Skills  
 - Leadership and Team Management  
