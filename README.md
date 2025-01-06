@@ -7,22 +7,16 @@ A passionate Full-stack JavaScript Developer focusing on dynamic web application
 - **Aviafy**: A travel platform developed from scratch using the MERN stack, which is now in full production.
 - **Zaimyinfo.kz**: A platform to compare credit company offers, helping users find the best deals in Kazakhstan.
   
-🌱 I’m currently learning about System Architecture.
-
-👯 I’m looking to collaborate on full-stack AI products.
+## 🌱 Currently Learning  
+- **System Architecture**  
+- **Advanced Blockchain Solutions**  
 
 ---
 
 ## 🔭 My Current Projects:  
-- [**Aviafy**](https://aviafy.com): A travel platform built with MERN stack, providing CRM and AI-powered assistants for travel agencies.
+- [**Aviafy**](https://myaviafy.com): A travel platform built with MERN stack, providing CRM and AI-powered assistants for travel agencies.
 - [**Zaimyinfo.kz**](https://zaimyinfo.kz): A platform to compare credit company offers and help users choose the best options for loans and financing in Kazakhstan.
 - [**a1.gold**](https://a1.gold): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration.  
-
----
-
-## 🌱 Currently Learning  
-- **System Architecture**  
-- **Advanced Blockchain Solutions**  
 
 ---
 
