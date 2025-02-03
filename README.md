@@ -66,10 +66,5 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 
 ---
 
-## 📌 Pinned Repositories
-[![Meme Project](https://github-readme-stats.vercel.app/api/pin/?username=aLLod1n&repo=pepememe-landing)](https://github.com/aLLod1n/pepememe-landing)
-
----
-
 ## 🌟 Support  
 Feel free to connect or collaborate with me if you find my work valuable!
