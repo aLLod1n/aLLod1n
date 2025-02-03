@@ -4,7 +4,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 ---
 
 🔭 I’m currently working on:
-- **Aviafy**: A travel platform developed from scratch using the MERN stack, which is now in full production.
+- **Aviafy**: A travel platform developed from scratch using the MERN stack, now in full production.
 - **Zaimyinfo.kz**: A platform to compare credit company offers, helping users find the best deals in Kazakhstan.
   
 ## 🌱 Currently Learning  
@@ -51,10 +51,26 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 
 ---
 
-## 📊 GitHub Stats  
-![Bezhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aLLod1n&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Bezhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aLLod1n&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🏆 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aLLod1n)
+
+---
+
+## 🌍 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aLLod1n&layout=compact&theme=radical)
+
+---
+
+## 📌 Pinned Repositories
+[![Meme Project](https://github-readme-stats.vercel.app/api/pin/?username=aLLod1n&repo=pepememe-landing)](https://github.com/aLLod1n/pepememe-landing)
+
 
 ---
 
 ## 🌟 Support  
-If you find my work valuable, feel free to connect or collaborate with me!
+Feel free to connect or collaborate with me if you find my work valuable!
