@@ -20,7 +20,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 - [**Aviafy new**](https://aviafy-new-ten.vercel.app/) New landing page for Aviafy.
 - [**wecrypta**](https://wecrypta.vercel.app) WeCrypta is a secure platform for seamless cryptocurrency transactions and decentralized financial services.
 - [**Tradix**](https://tradex-omega.vercel.app/) UI for trading platform
-- [**a1.gold**](https://a1.gold): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration.  
+- [**a1.gold**](https://a1-front.vercel.app/): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration.  
 
 ---
 ### 📚 Tech Stack:
