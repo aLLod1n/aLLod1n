@@ -18,6 +18,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 - [**Zaimyinfo.kz**](https://zaimyinfo.kz): A platform to compare credit company offers and help users choose the best options for loans and financing in Kazakhstan.
 - [**raccoon**](https://racoon-teal.vercel.app/) A meme page posts funny images or videos to entertain people.
 - [**Aviafy new**](https://aviafy-new-ten.vercel.app/) New landing page for Aviafy.
+- [**HyperPay**](https://www.npmjs.com/package/@hypersokrat/hyper-pay) HyperPay is a npm package that simplifies cryptocurrency payment integration in apps, enabling direct transactions via smart contracts without intermediaries. 🚀
 - [**wecrypta**](https://wecrypta.vercel.app) WeCrypta is a secure platform for seamless cryptocurrency transactions and decentralized financial services.
 - [**Tradix**](https://tradex-omega.vercel.app/) UI for trading platform
 - [**a1.gold**](https://a1-front.vercel.app/): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration.  
