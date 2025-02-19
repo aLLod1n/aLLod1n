@@ -25,6 +25,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 ### 🔄 Forked / Contributed Projects  
 - [**Raccoon**](https://racoon-teal.vercel.app/): A meme page that posts funny images or videos to entertain people.
 - [**RSM construction**]( https://www.rsmconstruction.ie/): Portfolio page for building company.
+- [**Catena**](https://www.catena.network/): Landing page for Catena.
 - [**Tradix**](https://tradex-omega.vercel.app/): UI for a trading platform.
 - [**a1.gold**](https://a1-front.vercel.app/): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration. 
 
