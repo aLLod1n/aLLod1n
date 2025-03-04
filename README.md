@@ -16,6 +16,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 ## 🔭 My Current Projects  
 
 ### 🚀 Projects I Own  
+- [**My Portfolio Page**](https://bekalichava.com)
 - [**Aviafy**](https://myaviafy.com): A travel platform built with the MERN stack, providing CRM and AI-powered assistants for travel agencies.  
 - [**Aviafy New**](https://aviafy-new-ten.vercel.app/): A new landing page for Aviafy.
 - [**Zaimyinfo.kz**](https://zaimyinfo.kz): A platform to compare credit company offers and help users choose the best loan and financing options in Kazakhstan.  
