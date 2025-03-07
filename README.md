@@ -68,7 +68,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 ---
 
 ## 🏆 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=aLLod1n)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aLLod1n&theme=radical)
 
 ---
 
