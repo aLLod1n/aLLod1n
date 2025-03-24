@@ -18,7 +18,6 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 ### 🚀 Projects I Own  
 - [**My Portfolio Page**](https://bekalichava.com) Bezhan Kalichava
 - [**Aviafy**](https://myaviafy.com): A travel platform built with the MERN stack, providing CRM and AI-powered assistants for travel agencies.  
-- [**Aviafy New**](https://aviafy-new-ten.vercel.app/): A new landing page for Aviafy.
 - [**Zaimyinfo.kz**](https://zaimyinfo.kz): A platform to compare credit company offers and help users choose the best loan and financing options in Kazakhstan.  
 - [**HyperPay Package**](https://www.npmjs.com/package/@hypersokrat/hyper-pay): An npm package that simplifies cryptocurrency payment integration in apps, enabling direct transactions via smart contracts without intermediaries.  
 - [**HypeHpay**](https://hyperpay.vercel.app/): A secure platform for seamless cryptocurrency transactions and decentralized financial services.  
