@@ -4,8 +4,9 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 ---
 
 🔭 I’m currently working on:
-- **Aviafy**: A travel platform developed from scratch using the MERN stack, now in full production.
-- **Zaimyinfo.kz**: A platform to compare credit company offers, helping users find the best deals in Kazakhstan.
+- [**Aviafy**](https://myaviafy.com): A travel platform developed from scratch using the MERN stack, now in full production.
+- [**Petbuddy**](https://petbuddy.care): An AI-powered assistant and CRM platform for pet care professionals, automating customer communication, appointment booking, and follow-ups.
+- [**MikMak**](https://mikmak.com): One of the largest interactive e-commerce platforms in the world, working with Vue.js and Node.js in a widget-based and microservice architecture.
   
 ## 🌱 Currently Learning  
 - **DevOps**  
@@ -24,6 +25,7 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 - [**HypeHpay**](https://hyperpay.vercel.app/): A secure platform for seamless cryptocurrency transactions and decentralized financial services.  
 
 ### 🔄 Forked / Contributed Projects  
+- [**MikMak**](https://mikmak.com): One of the largest interactive e-commerce platforms in the world, working with Vue.js and Node.js in a widget-based and microservice architecture.
 - [**Raccoon**](https://racoon-teal.vercel.app/): A meme page that posts funny images or videos to entertain people.
 - [**RSM construction**]( https://www.rsmconstruction.ie/): Portfolio page for building company.
 - [**Catena**](https://www.catena.network/): Landing page for Catena.
