@@ -1,66 +1,72 @@
 ## 👋 Hi, I'm Bezhan Kalichava
-Full Stack Developer | React | Next | Node | Express | MERN stack
+Senior Full Stack Developer | Product-Focused Engineer | AI & SaaS Builder  
+React | Next.js | Vue | Node | Express | MongoDB | MERN
 
 ---
 
-🔭 I’m currently working on:
-- [**Aviafy**](https://myaviafy.com): A travel platform developed from scratch using the MERN stack, now in full production.
-- [**Petbuddy**](https://petbuddy.care): An AI-powered assistant and CRM platform for pet care professionals, automating customer communication, appointment booking, and follow-ups.
-- [**MikMak**](https://mikmak.com): One of the largest interactive e-commerce platforms in the world, working with Vue.js and Node.js in a widget-based and microservice architecture.
-  
-## 🌱 Currently Learning  
-- **DevOps**  
-- **Advanced Blockchain Solutions**  
+🔭 **I’m currently working on:**
+- [**Aviafy**](https://myaviafy.com) — A travel CRM & automation platform built from scratch with the MERN stack, featuring AI-powered assistants for tour agencies.
+- [**PetBuddy**](https://petbuddy.care) — An AI-powered assistant and CRM for pet care professionals, automating customer communication, bookings, and follow-ups.
+- [**MikMak (Swaven)**](https://mikmak.com) — One of the world’s largest interactive e-commerce platforms. Working with Vue.js and Node.js in a widget-based, microservice architecture, focusing on accessibility, performance, and localization.
 
 ---
 
-## 🔭 My Current Projects  
-
-### 🚀 Projects I Own  
-- [**My Portfolio Page**](https://bekalichava.com) Bezhan Kalichava
-- [**PetBuddy**](https://www.petbuddy.care): An AI-powered assistant and CRM platform for pet care professionals, automating customer communication, appointment booking, and follow-ups.
-- [**Aviafy**](https://myaviafy.com): A travel platform built with the MERN stack, providing CRM and AI-powered assistants for travel agencies.  
-- [**Zaimyinfo.kz**](https://www.zaimyinfo.kz): A platform to compare credit company offers and help users choose the best loan and financing options in Kazakhstan.  
-- [**HyperPay Package**](https://www.npmjs.com/package/@hypersokrat/hyper-pay): An npm package that simplifies cryptocurrency payment integration in apps, enabling direct transactions via smart contracts without intermediaries.  
-- [**HypeHpay**](https://hyperpay.vercel.app/): A secure platform for seamless cryptocurrency transactions and decentralized financial services.  
-
-### 🔄 Forked / Contributed Projects  
-- [**MikMak**](https://mikmak.com): One of the largest interactive e-commerce platforms in the world, working with Vue.js and Node.js in a widget-based and microservice architecture.
-- [**Raccoon**](https://racoon-teal.vercel.app/): A meme page that posts funny images or videos to entertain people.
-- [**RSM construction**]( https://www.rsmconstruction.ie/): Portfolio page for building company.
-- [**Catena**](https://www.catena.network/): Landing page for Catena.
-- [**Tradix**](https://tradex-omega.vercel.app/): UI for a trading platform.
-- [**a1.gold**](https://a1-front.vercel.app/): A platform for crypto trading and staking with smart contract-based user registration and Web3 integration. 
-
-
----
-### 📚 Tech Stack:
-- **Frontend**: React, Next.js, HTML, CSS, SCSS, Tailwind CSS, Storybook
-- **Backend**: Node.js, Express, MongoDB, Strapi
-- **Blockchain**: Web3.js, Solidity
+## 🌱 Currently Learning
+- DevOps & Infrastructure (CI/CD, cloud, scaling production systems)
+- Advanced AI / LLM integrations
+- Blockchain & Web3 architectures
 
 ---
 
-## 🤝 Soft Skills  
-- Leadership and Team Management  
-- Emotional Intelligence  
-- Creativity and Critical Thinking  
-- Networking  
+## 🔭 My Current Projects
+
+### 🚀 Projects I Own
+- [**My Portfolio Page**](https://bekalichava.com)
+- [**PetBuddy**](https://www.petbuddy.care) — AI assistant & CRM for pet care businesses.
+- [**Aviafy**](https://myaviafy.com) — Travel CRM with AI-powered customer communication.
+- [**Zaimyinfo.kz**](https://www.zaimyinfo.kz) — Loan comparison platform for the Kazakhstan market.
+- [**HyperPay (npm package)**](https://www.npmjs.com/package/@hypersokrat/hyper-pay) — Crypto payments via smart contracts.
+- [**HyperPay Platform**](https://hyperpay.vercel.app) — Secure Web3 payment & DeFi solution.
 
 ---
 
-## 🌍 Languages  
-- **Georgian:** Native  
-- **English:** Fluent  
-- **Russian:** Fluent  
+### 🔄 Forked / Contributed Projects
+- [**MikMak / Swaven**](https://mikmak.com) — Large-scale interactive e-commerce widgets.
+- [**Raccoon**](https://racoon-teal.vercel.app) — Meme & content platform.
+- [**RSM Construction**](https://www.rsmconstruction.ie) — Website for a construction company.
+- [**Catena**](https://www.catena.network) — Web3 landing page.
+- [**Tradix**](https://tradex-omega.vercel.app) — Trading platform UI.
+- [**a1.gold**](https://a1-front.vercel.app) — Crypto trading & staking platform with smart-contract onboarding.
 
 ---
 
-## 📫 Contact Me  
-- **Phone:** +995 598 600 242  
-- **Email:** [bekalichava22@gmail.com](mailto:bekalichava22@gmail.com)  
-- **LinkedIn:** [bezhan-kalichava](https://www.linkedin.com/in/bezhan-kalichava-24864120a/)  
-- **Location:** Tbilisi, Georgia  
+## 📚 Tech Stack
+- **Frontend:** React, Next.js, Vue 2/3, HTML, CSS, SCSS, Tailwind CSS, Storybook
+- **Backend:** Node.js, Express, MongoDB, REST APIs
+- **AI & Automation:** AI chatbots, LLM integrations
+- **Blockchain:** Web3.js, Solidity
+
+---
+
+## 🤝 Soft Skills
+- Product & Startup Mindset
+- Leadership & Ownership
+- Problem Solving & Critical Thinking
+- Strong Communication
+
+---
+
+## 🌍 Languages
+- **Georgian:** Native
+- **English:** Fluent
+- **Russian:** Fluent
+
+---
+
+## 📫 Contact Me
+- **Email:** [bekalichava22@gmail.com](mailto:bekalichava22@gmail.com)
+- **LinkedIn:** [bezhan-kalichava](https://www.linkedin.com/in/bezhan-kalichava-24864120a/)
+- **Location:** Tbilisi, Georgia
 
 ---
 
@@ -79,5 +85,5 @@ Full Stack Developer | React | Next | Node | Express | MERN stack
 
 ---
 
-## 🌟 Support  
+## 🌟 Support
 Feel free to connect or collaborate with me if you find my work valuable!
