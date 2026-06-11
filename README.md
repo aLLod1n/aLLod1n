@@ -6,7 +6,6 @@ React | Next.js | Vue | Node | Express | MongoDB | MERN
 
 🔭 **I’m currently working on:**
 - [**Aviafy**](https://myaviafy.com) — A travel CRM & automation platform built from scratch with the MERN stack, featuring AI-powered assistants for tour agencies.
-- [**PetBuddy**](https://petbuddy.care) — An AI-powered assistant and CRM for pet care professionals, automating customer communication, bookings, and follow-ups.
 - [**MikMak (Swaven)**](https://mikmak.com) — One of the world’s largest interactive e-commerce platforms. Working with Vue.js and Node.js in a widget-based, microservice architecture, focusing on accessibility, performance, and localization.
 
 ---
@@ -22,7 +21,6 @@ React | Next.js | Vue | Node | Express | MongoDB | MERN
 
 ### 🚀 Projects I Own
 - [**My Portfolio Page**](https://bekalichava.com)
-- [**PetBuddy**](https://www.petbuddy.care) — AI assistant & CRM for pet care businesses.
 - [**Aviafy**](https://myaviafy.com) — Travel CRM with AI-powered customer communication.
 - [**Zaimyinfo.kz**](https://www.zaimyinfo.kz) — Loan comparison platform for the Kazakhstan market.
 - [**HyperPay (npm package)**](https://www.npmjs.com/package/@hypersokrat/hyper-pay) — Crypto payments via smart contracts.
